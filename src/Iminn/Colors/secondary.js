@@ -1,0 +1,1 @@
+export const secondary="#E5E5E5"

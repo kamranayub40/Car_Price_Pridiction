@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776229020387",
+    "project_id": "carpricepridiction",
+    "storage_bucket": "carpricepridiction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776229020387:android:a5a0e84219bf7f9fcf5bd6",
+        "android_client_info": {
+          "package_name": "com.carspp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776229020387-sevk0mi91ic9qjomt9v00et2f7vrmc4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-lOdylvI7SAcsuuSv2DzNcBkSv-5hfm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776229020387-sevk0mi91ic9qjomt9v00et2f7vrmc4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
